@@ -1,0 +1,110 @@
+[
+    {
+        "precio": 14.99,
+        "id":1,
+        "titulo": "5secondsofsummer 1",
+        "imagen": "img/5secondsofsummer1.jpg"
+    },
+    {
+        "precio": 15,
+        "id":2,
+        "titulo": "5secondsofsummer 2",
+        "imagen": "img/5secondsofsummer2.jpg"
+    },
+    {
+        "precio": 13.99,
+        "id":3,
+        "titulo": "5secondsofsummer 3",
+        "imagen": "img/5secondsofsummer3.jpg"
+    },
+    {
+        "precio": 10.99,
+        "id":4,
+        "titulo": "5secondsofsummer 4",
+        "imagen": "img/5secondsofsummer4.jpg"
+    },
+    {
+        "precio": 12.99,
+        "id":5,
+        "titulo": "finneas 1",
+        "imagen": "img/finneas1.jpg"
+    },
+    {
+        "precio": 10.99,
+        "id":6,
+        "titulo": "finneas 2",
+        "imagen": "img/finneas2.jpg"
+    },
+    {
+        "precio": 12,
+        "id":7,
+        "titulo": "finneas 3",
+        "imagen": "img/finneas3.jpg"
+    },
+    {
+        "precio": 14.99,
+        "id":8,
+        "titulo": "finneas 4",
+        "imagen": "img/finneas4.jpg"
+    },
+    {
+        "precio": 13.89,
+        "id":9,
+        "titulo": "fivefold 1",
+        "imagen": "img/fivefold1.jpg"
+    },
+    {
+        "precio": 19.05,
+        "id":10,
+        "titulo": "fivefold 2",
+        "imagen": "img/fivefold2.jpg"
+    },
+    {
+        "precio": 15,
+        "id":11,
+        "titulo": "neffex 1",
+        "imagen": "img/neffex1.jpeg"
+    },
+    {
+        "precio": 16.99,
+        "id":12,
+        "titulo": "neffex 2",
+        "imagen": "img/neffex2.jpeg"
+    },
+    {
+        "precio": 17,
+        "id":13,
+        "titulo": "neffex 3",
+        "imagen": "img/neffex3.jpg"
+    },
+    {
+        "precio": 18.54,
+        "id":14,
+        "titulo": "neffex 4",
+        "imagen": "img/neffex4.jpg"
+    },
+    {
+        "precio": 14.28,
+        "id":15,
+        "titulo": "Rstar 1",
+        "imagen": "img/Rstar1.jpg"
+    },
+    {
+        "precio": 10.84,
+        "id":16,
+        "titulo": "Rstar 2",
+        "imagen": "img/Rstar2.jpg"
+    },
+    {
+        "precio": 16.43,
+        "id":17,
+        "titulo": "Rstar 3",
+        "imagen": "img/Rstar3.jpg"
+    },
+    {
+        "precio": 18.54,
+        "id":18,
+        "titulo": "Rstar 4",
+        "imagen": "img/Rstar4.jpg"
+    }
+]
